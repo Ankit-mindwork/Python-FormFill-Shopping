@@ -1,0 +1,104 @@
+2021-01-07 07:58:53,900 :INFO :test_shop :getting all the card title
+2021-01-07 07:58:54,347 :INFO :test_shop :Checking the selected products
+2021-01-07 07:58:54,493 :INFO :test_shop :Entering country Name as ind
+2021-01-07 07:59:00,181 :INFO :test_shop :Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-07 08:37:01,315 :INFO :test_formSubmission :First name isAnkit Kumar Mandal
+2021-01-07 08:37:01,535 :INFO :test_formSubmission :Email isankitblvn11@gmail.com
+2021-01-07 08:37:01,715 :INFO :test_formSubmission :Entered Password is123456
+2021-01-07 08:37:01,946 :INFO :test_formSubmission :Entered Gender is Male
+2021-01-07 08:37:02,196 :INFO :test_formSubmission :Entered birthday is 25-11-1995
+2021-01-07 08:37:02,488 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-07 08:37:02,901 :INFO :test_formSubmission :First name isSunita Kumari
+2021-01-07 08:37:02,901 :INFO :test_formSubmission :First name isSunita Kumari
+2021-01-07 08:37:03,093 :INFO :test_formSubmission :Email isaaaaaa11@gmail.com
+2021-01-07 08:37:03,093 :INFO :test_formSubmission :Email isaaaaaa11@gmail.com
+2021-01-07 08:37:03,254 :INFO :test_formSubmission :Entered Password is654321
+2021-01-07 08:37:03,254 :INFO :test_formSubmission :Entered Password is654321
+2021-01-07 08:37:03,487 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-07 08:37:03,487 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-07 08:37:03,700 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-07 08:37:03,700 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-07 08:37:03,943 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-07 08:37:03,943 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-07 08:45:32,338 :INFO :test_formSubmission :First name isAnkit Kumar Mandal
+2021-01-07 08:45:32,543 :INFO :test_formSubmission :Email isankitblvn11@gmail.com
+2021-01-07 08:45:32,702 :INFO :test_formSubmission :Entered Password is123456
+2021-01-07 08:45:32,920 :INFO :test_formSubmission :Entered Gender is Male
+2021-01-07 08:45:33,078 :INFO :test_formSubmission :Entered birthday is 25-11-1995
+2021-01-07 08:45:33,454 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-07 08:45:33,768 :INFO :test_formSubmission :First name isSunita Kumari
+2021-01-07 08:45:33,768 :INFO :test_formSubmission :First name isSunita Kumari
+2021-01-07 08:45:33,941 :INFO :test_formSubmission :Email isaaaaaa11@gmail.com
+2021-01-07 08:45:33,941 :INFO :test_formSubmission :Email isaaaaaa11@gmail.com
+2021-01-07 08:45:34,090 :INFO :test_formSubmission :Entered Password is654321
+2021-01-07 08:45:34,090 :INFO :test_formSubmission :Entered Password is654321
+2021-01-07 08:45:34,301 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-07 08:45:34,301 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-07 08:45:34,496 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-07 08:45:34,496 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-07 08:45:34,728 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-07 08:45:34,728 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-07 08:45:43,575 :INFO :test_shop :getting all the card title
+2021-01-07 08:45:44,015 :INFO :test_shop :Checking the selected products
+2021-01-07 08:45:44,175 :INFO :test_shop :Entering country Name as ind
+2021-01-07 08:45:49,849 :INFO :test_shop :Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-08 02:00:36,212 :INFO :test_formSubmission :First name is Ankit Kumar Mandal
+2021-01-08 02:00:36,423 :INFO :test_formSubmission :Email is ankitblvn11@gmail.com
+2021-01-08 02:00:36,581 :INFO :test_formSubmission :Entered Password is 123456
+2021-01-08 02:00:36,914 :INFO :test_formSubmission :Entered Gender is Male
+2021-01-08 02:00:37,094 :INFO :test_formSubmission :Entered birthday is 25-11-1995
+2021-01-08 02:00:37,376 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-08 02:00:37,413 :INFO :test_formSubmission :First name is Sunita Kumari
+2021-01-08 02:00:37,413 :INFO :test_formSubmission :First name is Sunita Kumari
+2021-01-08 02:00:37,898 :INFO :test_formSubmission :Email is aaaaaa11@gmail.com
+2021-01-08 02:00:37,898 :INFO :test_formSubmission :Email is aaaaaa11@gmail.com
+2021-01-08 02:00:38,057 :INFO :test_formSubmission :Entered Password is 654321
+2021-01-08 02:00:38,057 :INFO :test_formSubmission :Entered Password is 654321
+2021-01-08 02:00:38,282 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-08 02:00:38,282 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-08 02:00:38,481 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-08 02:00:38,481 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-08 02:00:38,727 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-08 02:00:38,727 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-08 02:00:47,897 :INFO :test_shop :getting all the card title
+2021-01-08 02:00:48,303 :INFO :test_shop :Checking the selected products
+2021-01-08 02:00:48,442 :INFO :test_shop :Entering country Name as ind
+2021-01-08 02:00:54,115 :INFO :test_shop :Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-01-08 02:04:08,145 :INFO :test_formSubmission :First name is Ankit Kumar Mandal
+2021-01-08 02:04:08,354 :INFO :test_formSubmission :Email is ankitblvn11@gmail.com
+2021-01-08 02:04:08,509 :INFO :test_formSubmission :Entered Password is 123456
+2021-01-08 02:04:08,725 :INFO :test_formSubmission :Entered Gender is Male
+2021-01-08 02:04:08,884 :INFO :test_formSubmission :Entered birthday is 25-11-1995
+2021-01-08 02:04:09,267 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-08 02:04:09,567 :INFO :test_formSubmission :First name is Sunita Kumari
+2021-01-08 02:04:09,567 :INFO :test_formSubmission :First name is Sunita Kumari
+2021-01-08 02:04:09,745 :INFO :test_formSubmission :Email is aaaaaa11@gmail.com
+2021-01-08 02:04:09,745 :INFO :test_formSubmission :Email is aaaaaa11@gmail.com
+2021-01-08 02:04:09,900 :INFO :test_formSubmission :Entered Password is 654321
+2021-01-08 02:04:09,900 :INFO :test_formSubmission :Entered Password is 654321
+2021-01-08 02:04:10,104 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-08 02:04:10,104 :INFO :test_formSubmission :Entered Gender is Female
+2021-01-08 02:04:10,309 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-08 02:04:10,309 :INFO :test_formSubmission :Entered birthday is 01-03-1990
+2021-01-08 02:04:10,542 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-08 02:04:10,542 :INFO :test_formSubmission :×
+Success! The Form has been submitted successfully!.
+2021-01-08 02:04:18,894 :INFO :test_shop :getting all the card title
+2021-01-08 02:04:19,388 :INFO :test_shop :Checking the selected products
+2021-01-08 02:04:19,533 :INFO :test_shop :Entering country Name as ind
+2021-01-08 02:04:25,166 :INFO :test_shop :Text received from Application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
